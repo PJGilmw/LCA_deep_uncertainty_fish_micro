@@ -4,7 +4,7 @@
 
 This repository contains the code used to reproduce the results of the manuscript: *Jouannais.P,Blanco.CF, Pizzol.M, XXX (under review)* 
 
-This is not a generalized platform/package to apply the procedure to any case, but the scripts sepcific to the procedure and not to the case (microalgae and fish production) can be further adapted.
+This is not a generalized platform/package to apply the procedure to any case, but the scripts specific to the procedure and not to the case (microalgae and fish production) can be further adapted.
 
 **Cite this repository:**
 [![DOI]1)
@@ -191,12 +191,12 @@ Function which calculates an additional indicator a posteriori on the raw output
 ### Reproducing results of the article
 
   &#128680;&#128680;&#128680;**WARNING 
-Reproducing the results of the article requires a very large amount of data points (500 000 in the article) which is only reasonably achievable in a few days if using multiple instances with multiple cores and recombining results. Most of the functions are written to be called in parallel with the package "ray".
+Reproducing the results of the article requires a very large amount of data points (500 000 in the article) which is only reasonably achievable in sveral days if using multiple instances with multiple cores and recombining results eventually. Most of the functions are written to be called in parallel with the package "ray".
 
 The following instructions are given without assuming any recombination of results from multiple instances.
 
 The regionalization and PRIM application also require substantial computing capacities (large memory/multiple CPUS).
-
+Overall the results of the article were obtained dividing the successive and parallel tasks between 4 to 5 instances of 64 CPUS over 12 days.
 
 *Requirements*
 
