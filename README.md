@@ -7,7 +7,8 @@ This repository contains the code used to reproduce the results of the manuscrip
 This is not a generalized platform/package to apply the procedure to any case, but the scripts specific to the procedure and not to the case (microalgae and fish production) can be further adapted.
 
 **Cite this repository:**
-[![DOI]1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7759974.svg)](https://doi.org/10.5281/zenodo.7759974)
+
 
 
 
