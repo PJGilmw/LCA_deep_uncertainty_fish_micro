@@ -1,4 +1,4 @@
-# Code documentation for the XX repository
+# Code documentation for the LCA_deep_uncertainty_fish_micro repository
 
 ## Overview of the repository
 
@@ -7,7 +7,7 @@ This repository contains the code used to reproduce the results of the manuscrip
 This is not a generalized platform/package to apply the procedure to any case, but the scripts sepcific to the procedure and not to the case (microalgae and fish production) can be further adapted.
 
 **Cite this repository:**
-[![DOI](https://zenodo.org/badge/507035901.svg)](https://zenodo.org/badge/latestdoi/507035901)
+[![DOI]1)
 
 
 
