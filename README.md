@@ -2,7 +2,7 @@
 
 ## Overview of the repository
 
-This repository contains the code used to reproduce the results of the manuscript: *Jouannais.P,Blanco.CF, Pizzol.M, XXX (under review)* 
+This repository contains the code used to reproduce the results of the manuscript:  XXX (under review)* 
 
 This is not a generalized platform/package to apply the procedure to any case, but the scripts specific to the procedure and not to the case (microalgae and fish production) can be further adapted.
 
